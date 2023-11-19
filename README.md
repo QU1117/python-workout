@@ -1,1 +1,1 @@
-My solutions for projects in the "Python Workout" book by Reuven M. Lerner
+My solutions for projects from "Python Workout" book by Reuven M. Lerner
